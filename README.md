@@ -4,7 +4,7 @@ BUILDING
 
 Before setting up the project, make sure you have **PHP 8.2 or later** installed on your system. It can be obtained from a XAMPP installation or downloaded
 separately. Be sure checking in cmd your PHP version.
-This project db was setup using Docker. You have the file for making the container in the files, it's the yml.
+This project db was setup using Docker. You have the file for making the container in the files, it's the yml. Of course you can use a database directly install on you OS
 
 ### 📥 Install Composer
 Composer is the dependency manager for PHP. If you haven't installed it yet, download and install it from [getcomposer.org](https://getcomposer.org/).
