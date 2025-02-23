@@ -22,6 +22,23 @@ sh
 composer install
 
 
+## 📥 Ensure Docker and Docker Compose are installed
+
+    Run:
+
+docker -v
+docker-compose -v
+
+If Docker Compose is not installed, install it from here.
+3. Start the container
+
+    Run:
+
+docker-compose up -d
+
+-d runs it in detached mode (background).
+
+
 # 📂 Setting Up the Database with Artisan
 
 Laravel provides an easy way to create and manage your database using Artisan commands. Follow these steps to set up your database and seed it with fake data.
