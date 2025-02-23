@@ -24,7 +24,6 @@ composer install
 
 ## 📥 Ensure Docker and Docker Compose are installed
 
-    Run:
 
 docker -v
 docker-compose -v
@@ -32,7 +31,6 @@ docker-compose -v
 If Docker Compose is not installed, install it from here.
 3. Start the container
 
-    Run:
 
 docker-compose up -d
 
