@@ -49,4 +49,3 @@ php artisan db:seed --class=YourSeederClass
 
 
 
-
